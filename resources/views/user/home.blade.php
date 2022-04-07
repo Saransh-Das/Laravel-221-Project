@@ -12,7 +12,7 @@
     <script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js"
         integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc" crossorigin="anonymous">
     </script>
-    <title>Influencer Website</title>
+    <title>Influencer-My Merchandise</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="assets/css/fontawesome.css" />
     <link rel="stylesheet" href="assets/css/templatemo-sixteen.css" />
     <link rel="stylesheet" href="assets/css/owl.css" />
+    <link rel="shortcut icon" href="admin/assets/images/shop.png" />
 </head>
 
 <body>
